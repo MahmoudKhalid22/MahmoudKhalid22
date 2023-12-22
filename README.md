@@ -20,6 +20,7 @@
 <a href="https://t.me/Mahmoud_Khalid_12" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Khalid-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://wa.me/+201229086941" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Khalid-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
+![cpp](https://img.shields.io/badge/-cpp-05122A?style=flat&logo=cpp)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -27,7 +28,7 @@
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
-![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)
+![Next.js](https://img.shields.io/badge/-nextjs-05122A?style=flat&logo=nextjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=expressjs&logoColor=339933)&nbsp;
 ![RESTFUL](https://img.shields.io/badge/-RESTFUL-05122A?style=flat&logo=restful&logoColor=339933)&nbsp;
